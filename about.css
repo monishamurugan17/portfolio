@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(folder/prt.jpg);
+    
+}
+.navbar{
+overflow: hidden;
+background-color: black;
+position: fixed;
+top: 0;
+width: 100%;
+}
+.navbar a{
+float: left;
+display: block;
+text-align: center;
+color: antiquewhite;
+padding: 14px 16px;
+text-decoration: none;
+font: 17px;
+}
+.navbar a:hover{
+background-color: azure;
+color: black;
+}
+.p{
+    font-size: 5vh;
+    padding: 2vh;
+    justify-content: center;
+
+}
+.hd1{
+    font-size: 15px;
+}
+.h5{
+    padding: 2px;
+}
+.p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 29px;
+    padding: 30px;
+}
+.ab{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+    text-align: center;
+}
+.dc{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+}
+.pr2{
+    font-weight: bold;
+    color: yellow;
+}
+.pr4{
+    font-weight: bold;
+    color: yellow;
+}
+.pr6{
+    font-weight: bold;
+    color: yellow;
+}
+.pr8{
+    font-weight: bold;
+    color: yellow;
+}
+.pr12{
+    font-weight: bold;
+    color: yellow;
+}
+.pr10{
+    font-weight: bold;
+    color: yellow;
+}
